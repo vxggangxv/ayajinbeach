@@ -2,13 +2,13 @@
 
 
 /*공통스타일*/
-.contents .wrap.cmStyle {padding: 20px 10px 30px;}
+.contents .wrap.cmStyle {padding-bottom: 10px;}
 
 /*서브비쥬얼*/
-.contents .subVisual {background: #eee url(http://img.sampobeach.co.kr/m/board/subVisual.jpg) no-repeat center 60% /cover;}
+.contents .subVisual {background: #eee url(http://img.ayajinbeach.co.kr/m/board/subVisual.jpg) no-repeat center / cover;}
 
 /* 게시판 너비 */
-.contents .board .container {position: relative; box-sizing:border-box; width: 100%; margin: 0 auto;} 
+.contents .board .container {position: relative; box-sizing:border-box; width: 100%; margin: 0 auto; padding: 20px 10px 30px;} 
 
 /*게시판 list*/
 .contents .board {min-height: 330px;}
@@ -39,7 +39,7 @@
 .contents .board .row-btn .btn-list {display: inline-block; font-size: 13px; border: 1px solid #d9d9d9; border-radius: 25px; padding: 5px 30px;}
 
 /*추억 게시판*/
-.contents .subVisual.board-memory {background: #eee url(http://img.sampobeach.co.kr/m/board/subVisual_bm.jpg) no-repeat right top / cover;}
+.contents .subVisual.board-memory {background: #eee url(http://img.ayajinbeach.co.kr/m/board/subVisual_bm.jpg) no-repeat right top / cover;}
 /*.contents .subVisual.board-memory {background: #eee url(../../../img/m/board/subVisual_bm.jpg) no-repeat right top /cover;}*/
 .contents .board-memory {}
 /*추억 게시판 list*/
