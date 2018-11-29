@@ -96,5 +96,4 @@
 .contents .waycome .way-info dd p.dot {position: relative; padding-left: 10px;}
 .contents .waycome .way-info dd p .dot {display: inline-block; position: absolute; left: 5px;}
 .contents .waycome .way-map {border: 1px solid #a9a7a8;}
-.contents .waycome .way-map > a > img {width: 100%;}
 .contents .waycome .way-map > div {margin: 0 auto;}
